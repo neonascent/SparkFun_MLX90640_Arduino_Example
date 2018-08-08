@@ -1,3 +1,9 @@
+#include <MLX90640_API.h>
+#include <MLX90640_I2C_Driver.h>
+
+#include <MLX90640_API.h>
+#include <MLX90640_I2C_Driver.h>
+
 /*
   Output the temperature readings to all pixels to be read by a Processing visualizer
   By: Nathan Seidle
